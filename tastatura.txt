@@ -1,0 +1,6 @@
+Masina1:Model1:Marca1:2022
+Masina2:Model2:Marca2:2023
+Client1:Nume1:Prenume1
+Client2:Nume2:Prenume2
+Vanzare1:Masina1:Client1:30000.0
+Vanzare2:Masina2:Client2:35000.0
